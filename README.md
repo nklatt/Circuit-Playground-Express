@@ -17,6 +17,8 @@ There are two parallel resources for this on the AdaFruit site.
 
 [Installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
 
+Either way, the actual download is here:
+
 [Download CircuitPython for Circuit Playground Express](https://circuitpython.org/board/circuitplayground_express/)
 
 Specifically, I installed adafruit-circuitpython-circuitplayground_express-en_US-4.0.2.uf2
